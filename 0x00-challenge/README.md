@@ -26,14 +26,17 @@ Something is going wrong….
 Please take a look at my implementation of printing a square in Javascript: source code
 
 Something is going wrong….
+
 2. **Sort**[2-sort.rb](./2-sort.rb)
 Please find here my implementation of sorting arguments in Ruby: source code
 
 Something is going wrong….
+
 3. **User password**[3-user.py](./3-user.py)
 Please find here my implementation of a User class in Python: source code
 
 Something is going wrong….
+
 4. **Double linked list**[4-delete_dnodeint/](./4-delete_dnodeint/)
 Please find here my implementation of a Double linked list in C: source code
 
